@@ -1,0 +1,15 @@
+python src/predict.py "Traktor s prikljuccima"
+Predicted OznakaKonta: 2211
+python src/predict.py "Racunalo i printerska oprema"
+Predicted OznakaKonta: 2211
+
+python src/predict.py "Serverski ormar i mrezna oprema"
+Predicted OznakaKonta: 2212
+
+python src/predict.py "Kamion za odvoz otpada"
+Predicted OznakaKonta: 2144
+
+python src/predict.py "IZR.PROCJEMBENOG ELABORATA ZA NEKRETNINU RIBARSKA"
+Predicted OznakaKonta: 2131
+python src/predict.py "IZRADA DOKUMENTACIJE ZA PROJ. VRATA SPACVANSKOG BA"
+Predicted OznakaKonta: 2131
